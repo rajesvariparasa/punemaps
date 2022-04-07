@@ -1,4 +1,4 @@
 group,name,default,shapefile,color,type
-Health,Hospitals,,Hospitals,#FF0000,Point
+Health,Hospitals,,Hospitals.geojson,#FF0000,Point
 Education,Schools,,Schools.geojson,#808080,Point
 Transport,Bus Stops,,Bus_Stops.geojson,#00FF00,Point
