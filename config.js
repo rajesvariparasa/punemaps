@@ -4,9 +4,9 @@ const STARTLOCATION = [18.51, 73.86]
 const STARTZOOM = 10;
 
 // map constraints - use this to ensure the user doesn't float off to other places
-const BOUNDS = [[18.38, 73.63], [18.66, 74.04]];
-const MINZOOM = 10;
-const MAXZOOM = 20;
+const BOUNDS = [[18, 73], [19, 74]];
+const MINZOOM = 5;
+const MAXZOOM = 40;
 const MAXBOUNDSVISCOSITY = 0.5;
 
 const SHAPES_FOLDER = 'data/';
